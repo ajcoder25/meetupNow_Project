@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Element -->
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+  
+  <!-- Connection Elements (circles with links) with 3D shadow -->
+  <g opacity="0.15">
+    <ellipse cx="153" cy="253" rx="40" ry="10" fill="#881111"/>
+    <circle cx="150" cy="250" r="40" fill="#ff3333"/>
+    
+    <ellipse cx="303" cy="203" rx="30" ry="8" fill="#881111"/>
+    <circle cx="300" cy="200" r="30" fill="#ff3333"/>
+    
+    <ellipse cx="453" cy="283" rx="35" ry="9" fill="#881111"/>
+    <circle cx="450" cy="280" r="35" fill="#ff3333"/>
+    
+    <ellipse cx="603" cy="233" rx="25" ry="7" fill="#881111"/>
+    <circle cx="600" cy="230" r="25" fill="#ff3333"/>
+    
+    <line x1="153" y1="253" x2="303" y2="203" stroke="#881111" stroke-width="6"/>
+    <line x1="150" y1="250" x2="300" y2="200" stroke="#ff3333" stroke-width="6"/>
+    
+    <line x1="303" y1="203" x2="453" y2="283" stroke="#881111" stroke-width="6"/>
+    <line x1="300" y1="200" x2="450" y2="280" stroke="#ff3333" stroke-width="6"/>
+    
+    <line x1="453" y1="283" x2="603" y2="233" stroke="#881111" stroke-width="6"/>
+    <line x1="450" y1="280" x2="600" y2="230" stroke="#ff3333" stroke-width="6"/>
+  </g>
+  
+  <!-- Main Logo Text - 3D Effect -->
+  <!-- Shadow/3D effect layer -->
+  <g transform="translate(207, 237)">
+    <!-- M -->
+    <g transform="translate(0, 0)">
+      <path d="M0,0 L0,80 M0,0 L20,40 L40,0 M40,0 L40,80" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(60, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,0 M0,40 L30,40 M0,80 L40,80" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(120, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,0 M0,40 L30,40 M0,80 L40,80" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- T -->
+    <g transform="translate(180, 0)">
+      <path d="M20,0 L20,80 M0,0 L40,0" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- U -->
+    <g transform="translate(230, 0)">
+      <path d="M0,0 L0,60 Q0,80 20,80 Q40,80 40,60 L40,0" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- P -->
+    <g transform="translate(290, 0)">
+      <path d="M0,0 L0,80 M0,0 L30,0 Q40,0 40,15 Q40,30 30,30 L0,30" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- N -->
+    <g transform="translate(350, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,80 M40,0 L40,80" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- O -->
+    <g transform="translate(410, 0)">
+      <path d="M20,0 Q0,0 0,20 L0,60 Q0,80 20,80 L20,80 Q40,80 40,60 L40,20 Q40,0 20,0 Z" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- W -->
+    <g transform="translate(470, 0)">
+      <path d="M0,0 L10,80 L25,30 L40,80 L50,0" fill="none" stroke="#881111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  
+  <!-- Main Logo Text - Front layer -->
+  <g transform="translate(200, 230)">
+    <!-- M -->
+    <g transform="translate(0, 0)">
+      <path d="M0,0 L0,80 M0,0 L20,40 L40,0 M40,0 L40,80" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(60, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,0 M0,40 L30,40 M0,80 L40,80" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(120, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,0 M0,40 L30,40 M0,80 L40,80" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- T -->
+    <g transform="translate(180, 0)">
+      <path d="M20,0 L20,80 M0,0 L40,0" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- U -->
+    <g transform="translate(230, 0)">
+      <path d="M0,0 L0,60 Q0,80 20,80 Q40,80 40,60 L40,0" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- P -->
+    <g transform="translate(290, 0)">
+      <path d="M0,0 L0,80 M0,0 L30,0 Q40,0 40,15 Q40,30 30,30 L0,30" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- N -->
+    <g transform="translate(350, 0)">
+      <path d="M0,0 L0,80 M0,0 L40,80 M40,0 L40,80" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- O -->
+    <g transform="translate(410, 0)">
+      <path d="M20,0 Q0,0 0,20 L0,60 Q0,80 20,80 L20,80 Q40,80 40,60 L40,20 Q40,0 20,0 Z" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- W -->
+    <g transform="translate(470, 0)">
+      <path d="M0,0 L10,80 L25,30 L40,80 L50,0" fill="none" stroke="#ff3333" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  
+  <!-- 3D Highlights -->
+  <g transform="translate(198, 228)" opacity="0.5">
+    <!-- M -->
+    <g transform="translate(0, 0)">
+      <path d="M0,0 L0,20 M0,0 L10,15 M40,0 L40,20" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(60, 0)">
+      <path d="M0,0 L0,20 M0,0 L15,0 M0,40 L10,40" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- E -->
+    <g transform="translate(120, 0)">
+      <path d="M0,0 L0,20 M0,0 L15,0 M0,40 L10,40" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- T -->
+    <g transform="translate(180, 0)">
+      <path d="M20,0 L20,20 M5,0 L35,0" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- U -->
+    <g transform="translate(230, 0)">
+      <path d="M0,0 L0,20 M40,0 L40,20" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- P -->
+    <g transform="translate(290, 0)">
+      <path d="M0,0 L0,20 M0,0 L15,0 Q25,0 30,5" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- N -->
+    <g transform="translate(350, 0)">
+      <path d="M0,0 L0,20 M10,10 L15,20 M40,0 L40,20" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- O -->
+    <g transform="translate(410, 0)">
+      <path d="M15,5 Q5,5 5,15 M35,15 Q35,5 25,5" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <!-- W -->
+    <g transform="translate(470, 0)">
+      <path d="M5,5 L10,20 M25,15 L30,5 M45,5 L40,20" fill="none" stroke="#ffaaaa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  
+  <!-- Tagline with 3D effect -->
+  <text x="403" y="343" font-family="Arial, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#881111">CONNECTING PEOPLE</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#666666">CONNECTING PEOPLE</text>
+  
+  <!-- Connection Dots Animation Effect with 3D shadows -->
+  <g>
+    <ellipse cx="268" cy="213" rx="6" ry="2" fill="#881111"/>
+    <circle cx="265" cy="210" r="6" fill="#ff3333"/>
+    
+    <ellipse cx="338" cy="208" rx="4" ry="1.5" fill="#881111"/>
+    <circle cx="335" cy="205" r="4" fill="#ff3333"/>
+    
+    <ellipse cx="408" cy="218" rx="5" ry="1.8" fill="#881111"/>
+    <circle cx="405" cy="215" r="5" fill="#ff3333"/>
+    
+    <ellipse cx="473" cy="211" rx="3" ry="1.2" fill="#881111"/>
+    <circle cx="470" cy="208" r="3" fill="#ff3333"/>
+    
+    <!-- Highlights on dots -->
+    <circle cx="263" cy="208" r="1.5" fill="#ffaaaa"/>
+    <circle cx="333" cy="203" r="1" fill="#ffaaaa"/>
+    <circle cx="403" cy="213" r="1.2" fill="#ffaaaa"/>
+    <circle cx="468" cy="206" r="0.8" fill="#ffaaaa"/>
+  </g>
+  
+  <!-- Subtle gradient overlay for depth -->
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="150" y="150" width="500" height="200" fill="url(#logoGradient)" opacity="0.3"/>
+</svg>
